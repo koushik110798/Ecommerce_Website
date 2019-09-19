@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.header {
+    font: 30px arial;
+    font-weight: bold;
+    background-color: coral;
+    text-decoration-style: wavy;
+}
+
+.footer {
+    font: 12px arial;
+    font-weight: bold;
+    background-color: chocolate;
+}
+
+.navigation {
+    font: 15px arial;
+    font-weight: bold;
+    background-color: burlywood;
+}
+
+.home {
+    font: 18px arial;
+    font-weight: bold;
+    background-color: bisque;
+}
+
